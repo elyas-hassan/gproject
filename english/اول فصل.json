@@ -25,7 +25,7 @@
       },
       {
         "key": "Urgent",
-        "value": "Very important / Needs quick action",
+        "value": "important",
         "hint": "Something that cannot wait for later."
       }
     ]
