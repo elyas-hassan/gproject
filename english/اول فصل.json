@@ -1,0 +1,33 @@
+[
+  {
+    "type": "matching",
+    "question": "صل الكلمة بالمعنى الصحيح لها (Vocabulary Matching):",
+    "pairs": [
+      {
+        "key": "Apologize",
+        "value": "To say sorry",
+        "hint": "What you do when you make a mistake."
+      },
+      {
+        "key": "Supplier",
+        "value": "Provider",
+        "hint": "A person or company that provides goods or services."
+      },
+      {
+        "key": "Soaked",
+        "value": "Very wet",
+        "hint": "Like clothes after walking in heavy rain."
+      },
+      {
+        "key": "Import",
+        "value": "Bring from another country",
+        "hint": "The opposite of Export."
+      },
+      {
+        "key": "Urgent",
+        "value": "Very important / Needs quick action",
+        "hint": "Something that cannot wait for later."
+      }
+    ]
+  }
+]
