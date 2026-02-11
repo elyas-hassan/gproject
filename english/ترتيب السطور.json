@@ -1,0 +1,16 @@
+[
+  {
+    "type": "ordering",
+    "question": "Rearrange the sentences to form a logical email:",
+    "items": [
+      "Hi, Befan - How are you doing?",
+      "I have just started school again.",
+      "I'm trying to get used to waking up early.",
+      "I have great plans for the weekend.",
+      "I'll go camping in the desert with my cousins.",
+      "Don't forget, it's your turn next summer to come to S.A.",
+      "Take care, Ryoof"
+    ],
+    "hint": "Start with the greeting and end with the closing signature."
+  }
+]
