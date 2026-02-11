@@ -1,15 +1,14 @@
 [
   {
     "type": "choice",
-    "question": "<span class='blank'></span> her busy schedule, Maya always remembers her friends' events.",
+    "question": "\u202A<span class='blank'></span> her busy schedule, Maya always remembers her friends' events.",
     "options": ["In spite of", "Although"],
     "answer": "In spite of",
     "hint": "Look at 'her busy schedule'—it is a noun phrase, not a full sentence."
-    "lang": "en"
   },
   {
     "type": "choice",
-    "question": "<span class='blank'></span> Steve had all the right qualifications, he wasn't chosen for the job.",
+    "question": "\u202A<span class='blank'></span> Steve had all the right qualifications, he wasn't chosen for the job.",
     "options": ["Although", "In spite of"],
     "answer": "Although",
     "hint": "Notice 'Steve had'—this is a subject followed by a verb."
@@ -33,7 +32,7 @@
   },
   {
     "type": "choice",
-    "question": "<span class='blank'></span> she has a Russian last name, she was actually born in Canada.",
+    "question": "\u202A<span class='blank'></span> she has a Russian last name, she was actually born in Canada.",
     "options": ["Although", "In spite of"],
     "answer": "Although",
     "hint": "There is a subject 'she' and a verb 'has' right after the blank."
