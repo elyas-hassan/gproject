@@ -1,0 +1,28 @@
+[
+  {
+    "type": "matching",
+    "question": "صل الكلمات الإنجليزية بمعانيها المناسبة:",
+    "pairs": [
+      {
+        "key": "Broke",
+        "value": "Not having money",
+        "hint": "When you have zero dollars in your pocket."
+      },
+      {
+        "key": "Insane",
+        "value": "Crazy",
+        "hint": "Something very wild or mentally unstable."
+      },
+      {
+        "key": "Rejected",
+        "value": "Refused",
+        "hint": "When an application or a request is not accepted."
+      },
+      {
+        "key": "Seek",
+        "value": "Look for something",
+        "hint": "To search or try to find something you need."
+      }
+    ]
+  }
+]
