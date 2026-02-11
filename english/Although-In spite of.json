@@ -1,14 +1,14 @@
 [
   {
     "type": "choice",
-    "question": "\u202A<span class='blank'></span> her busy schedule, Maya always remembers her friends' events.",
+    "question": "....... her busy schedule, Maya always remembers her friends' events.",
     "options": ["In spite of", "Although"],
     "answer": "In spite of",
     "hint": "Look at 'her busy schedule'—it is a noun phrase, not a full sentence."
   },
   {
     "type": "choice",
-    "question": "\u202A<span class='blank'></span> Steve had all the right qualifications, he wasn't chosen for the job.",
+    "question": "......... Steve had all the right qualifications, he wasn't chosen for the job.",
     "options": ["Although", "In spite of"],
     "answer": "Although",
     "hint": "Notice 'Steve had'—this is a subject followed by a verb."
@@ -16,7 +16,7 @@
   },
   {
     "type": "choice",
-    "question": "Our team lost the game <span class='blank'></span> we played much better than the other team.",
+    "question": "Our team lost the game ......... we played much better than the other team.",
     "options": ["although", "in spite of"],
     "answer": "although",
     "hint": "The phrase 'we played' is a full clause with a verb."
@@ -24,7 +24,7 @@
   },
   {
     "type": "choice",
-    "question": "We had a really good time at the beach <span class='blank'></span> the cloudy weather.",
+    "question": "We had a really good time at the beach ......... the cloudy weather.",
     "options": ["in spite of", "although"],
     "answer": "in spite of",
     "hint": "'The cloudy weather' is a noun phrase."
@@ -32,7 +32,7 @@
   },
   {
     "type": "choice",
-    "question": "\u202A<span class='blank'></span> she has a Russian last name, she was actually born in Canada.",
+    "question": "......... she has a Russian last name, she was actually born in Canada.",
     "options": ["Although", "In spite of"],
     "answer": "Although",
     "hint": "There is a subject 'she' and a verb 'has' right after the blank."
