@@ -1,0 +1,38 @@
+[
+  {
+    "type": "matching",
+    "question": "Match the causes with their logical results:",
+    "pairs": [
+      {
+        "key": "There was so much traffic on the road",
+        "value": "It took hours to get to the beach",
+        "hint": "Think about how traffic affects travel time."
+      },
+      {
+        "key": "The picnic was so crowded",
+        "value": "We weren't able to find a good place to sit",
+        "hint": "If there are too many people, you can't find a spot."
+      },
+      {
+        "key": "The water was so cold",
+        "value": "We weren't able to swim",
+        "hint": "Temperature affects whether you can stay in the water."
+      },
+      {
+        "key": "There were so many mosquitos",
+        "value": "The children were bitten all over",
+        "hint": "Mosquitos are insects that bite."
+      },
+      {
+        "key": "The beach was so noisy",
+        "value": "I got a headache",
+        "hint": "Loud sounds often cause head pain."
+      },
+      {
+        "key": "We were all so tired in the evening",
+        "value": "We went straight to bed",
+        "hint": "What do you do immediately when you are exhausted?"
+      }
+    ]
+  }
+]
