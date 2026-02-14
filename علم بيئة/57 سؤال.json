@@ -328,6 +328,7 @@
   {
     "type": "choice",
     "question": "28- في الشكل السابق أي المخلوقات التالية يقع ضمن مستوى المستهلكات الثانوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/28.jpg",
     "options": [
       "الفأر",
       "الثعبان",
