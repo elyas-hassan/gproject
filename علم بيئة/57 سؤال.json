@@ -317,6 +317,7 @@
   {
     "type": "choice",
     "question": "27- في الشكل السابق هرم غذائي افتراضي استنتجي ماذا يحدث للمخلوقات الحية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/27.jpg",
     "options": [
       "تزداد المنتجات الأولية",
       "تموت المخلوقات الحية",
@@ -573,6 +574,7 @@
   {
     "type": "choice",
     "question": "48- أي أجزاء الشبكة أعلاه يحوي أكبر كتلة حيوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/48.jpg",
     "options": [
       "الثعالب",
       "الفئران",
@@ -681,13 +683,14 @@
   {
     "type": "choice",
     "question": "57- الشكل السابق يمثل دورة الفوسفور أي الخيارات التالية يمثل المحللات:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/57.jpg",
     "options": [
       "A",
       "B",
       "C",
       "D"
     ],
-    "answer": "C",
-    "hint": "ابحث عن الرمز الذي تصله الأسهم من الكائنات الحية بعد موتها."
+    "answer": "B",
+    "hint": ""
   }
 ]
