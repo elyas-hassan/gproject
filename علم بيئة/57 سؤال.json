@@ -38,6 +38,7 @@
   {
     "type": "choice",
     "question": "4- في الشكل السابق مجموعة من العوامل الحيوية و اللاحيوية أي الخيارات التالية يمثل عوامل لاحيوية فقط :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/4.jpg",
     "options": [
       "الماء- التربة - الأكسجين - الميكروبات - الطيور",
       "الشمس - النبات - البعوض - الطيور - التربة",
@@ -280,7 +281,7 @@
   {
     "type": "choice",
     "question": "24- ماذا يمثل المخطط في الشكل السابق :",
-    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/142b1db876a219a2693e9945d24d9613c2fb52ff/علم%20بيئة/24.jpg",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/24.jpg",
     "options": [
       "سلسلة غذائية",
       "شبكة غذائية",
@@ -356,6 +357,7 @@
   {
     "type": "choice",
     "question": "30- أي أجزاء الشبكة الغذائية يحوي أقل كتلة حيوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/30.jpg",
     "options": [
       "الثعالب",
       "النباتات الخضراء",
@@ -538,13 +540,14 @@
   {
     "type": "choice",
     "question": "45- أي أجزاء المخطط يتعلق بفقدان الكربون من الدورة طويلة الأمد في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/45.jpg",
     "options": [
       "ثاني أكسيد الكربون المذاب",
       "احتراق الوقود",
       "البناء الضوئي و التنفس",
       "النشاط البركاني"
     ],
-    "answer": "النشاط البركاني",
+    "answer": "احتراق الوقود",
     "hint": "خروج الكربون المخزن في باطن الأرض."
   },
   {
