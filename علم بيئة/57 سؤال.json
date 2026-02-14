@@ -485,6 +485,7 @@
   {
     "type": "choice",
     "question": "41- يوجد أعلى تركيز من النيتروجين في :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/41.jpg",
     "options": [
       "الحيوانات",
       "الغلاف الجوي",
