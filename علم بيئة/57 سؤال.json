@@ -367,6 +367,7 @@
   {
     "type": "choice",
     "question": "31- أي المخلوقات التالية يعد الأقل في حجم الجماعة الحيوية :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/31.jpg",
     "options": [
       "النباتات",
       "الحشرات",
