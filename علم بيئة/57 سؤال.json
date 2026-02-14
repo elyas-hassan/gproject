@@ -342,14 +342,15 @@
   {
     "type": "choice",
     "question": "29- الشكل السابق يمثل هرم :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/29.jpg",
     "options": [
       "للطاقة",
       "للكتلة",
       "للأعداد",
       "غذائي"
     ],
-    "answer": "للطاقة",
-    "hint": "المخطط الذي يوضح انتقال السعرات الحرارية."
+    "answer": "للكتلة",
+    "hint": ""
   },
   {
     "type": "choice",
