@@ -306,8 +306,8 @@
   },
   {
     "type": "true-false",
-    "question": "الالتزام بالمواعيد ليس من أخلاقيات العمل.",
-    "answer": "false"
+    "question": "الالتزام بالمواعيد من أخلاقيات العمل.",
+    "answer": "true"
   },
   {
     "type": "true-false",
