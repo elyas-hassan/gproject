@@ -1,4 +1,56 @@
 [
+    {
+    "type": "choice",
+    "question": "18/ الشكل السابق يمثل رسما بيانيا لتكاثر قطعان الذئاب في الصحاري السعودية لفترة زمنيةما ان المنحنى رقم 4 في الشكل يمثل :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_18.jpg",
+    "options": [
+      "النمو الأسي",
+      "طور التباطؤ",
+      "تجاوز القدرة الاستيعابية",
+      "القدرة الاستيعابية"
+    ],
+    "answer": "تجاوز القدرة الاستيعابية",
+    "hint": ""
+  },
+  {
+    "type": "choice",
+    "question": "17/ الشكل السابق يوضح نمو جماعة حيوية أي الخيارات التالية يمثل طور التباطؤ:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_17.jpg",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A",
+    "hint": ""
+  },
+    {
+    "type": "choice",
+    "question": "16/ أي الخيارات التالية يمثل الحرف C في الرسم:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_16.jpg",
+    "options": [
+      "النمو الأسي",
+      "طور التباطؤ",
+      "النمو المتزايد",
+      "القدرة الاستيعابية"
+    ],
+    "answer": "القدرة الاستيعابية",
+    "hint": ""
+  },
+  {
+    "type": "choice",
+    "question": "15/ الشكل البياني السابق لجماعة من الفئران يسمى :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_15.jpg",
+    "options": [
+      "النمو الأسي",
+      "طور التباطؤ",
+      "النمو النسبي",
+      "النمو الخطي"
+    ],
+    "answer": "النمو الأسي",
+    "hint": ""
+  },
 
   {
     "type": "choice",
