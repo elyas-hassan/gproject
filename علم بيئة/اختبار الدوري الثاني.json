@@ -1,4 +1,33 @@
 [
+
+  {
+    "type": "choice",
+    "question": "4/ الشكل السابق يبين نمط التوزيع المكاني للابل وهو من النوع:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_4.jpg",
+    "options": [
+      "العشوائي",
+      "الهجرة المنتظمة",
+      "تكتلي",
+      "منتظم"
+    ],
+    "answer": "تكتلي",
+    "hint": ""
+  },
+  
+  {
+    "type": "choice",
+    "question": "2/ في الشكل السابق توزيع الجماعة لحيوان في منطقة ما هذا التوزيع يسمى :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_2-2.jpg",
+    "options": [
+      "محدود",
+      "عشوائي",
+      "تكتلي",
+      "منتظم"
+    ],
+    "answer": "منتظم",
+    "hint": ""
+  },
+  
   {
     "type": "choice",
     "question": "2 / في الشكل السابق ماذا يمثل الحرف D :",
