@@ -38,6 +38,7 @@
   {
     "type": "choice",
     "question": "4- في الشكل السابق مجموعة من العوامل الحيوية و اللاحيوية أي الخيارات التالية يمثل عوامل لاحيوية فقط :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/4.jpg",
     "options": [
       "الماء - التربة - الأكسجين - الميكروبات - الطيور",
       "الشمس - النبات - البعوض - الطيور - التربة",
@@ -86,14 +87,15 @@
   {
     "type": "choice",
     "question": "8- في الشكل السابق ماذا يمكن أن تزيل حتى يتحول الشكل إلى جماعة حيوية :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/8.jpg",
     "options": [
       "الماء",
       "الأغنام",
       "ضوء الشمس",
       "الأعلاف"
     ],
-    "answer": "الماء",
-    "hint": "لتحويل نظام إلى (جماعة حيوية)، يجب إبقاء نوع حي واحد فقط وإزالة العوامل اللاحيوية أو الأنواع الأخرى (حسب الصورة المرفقة)."
+    "answer": "الأغنام",
+    "hint": ""
   },
   {
     "type": "choice",
@@ -254,6 +256,7 @@
   {
     "type": "choice",
     "question": "22- في السلسلة الغذائية النموذجية يستخدم كل مخلوق حي جزءا من الطاقة التي يحصل عليها من المخلوق الذي تغذى عليه أي الأرقام التالية يمثل هذه السلسلة :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/22.jpg",
     "options": [
       "1",
       "2",
@@ -261,7 +264,7 @@
       "4"
     ],
     "answer": "2",
-    "hint": "تعتمد الإجابة على المخطط المرفق، وغالباً ما تشير إلى مسار انتقال الطاقة عبر المستويات."
+    "hint": ""
   },
   {
     "type": "choice",
@@ -278,6 +281,7 @@
   {
     "type": "choice",
     "question": "24- ماذا يمثل المخطط في الشكل السابق :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/24.jpg",
     "options": [
       "سلسلة غذائية",
       "شبكة غذائية",
@@ -314,18 +318,20 @@
   {
     "type": "choice",
     "question": "27- في الشكل السابق هرم غذائي افتراضي استنتجي ماذا يحدث للمخلوقات الحية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/27.jpg",
     "options": [
       "تزداد المنتجات الأولية",
       "تموت المخلوقات الحية",
       "تقل المستهلكات الثانوية",
       "لا تتأثر المستهلكات الأولية"
     ],
-    "answer": "تقل المستهلكات الثانوية",
-    "hint": "مع تناقص الطاقة صعوداً، تقل أعداد الكائنات في قمة الهرم."
+    "answer": "تموت المخلوقات الحية",
+    "hint": ""
   },
   {
     "type": "choice",
     "question": "28- في الشكل السابق أي المخلوقات التالية يقع ضمن مستوى المستهلكات الثانوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/28.jpg",
     "options": [
       "الفأر",
       "الثعبان",
@@ -338,18 +344,20 @@
   {
     "type": "choice",
     "question": "29- الشكل الساذق يمثل هرم :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/29.jpg",
     "options": [
       "للطاقة",
       "للكتلة",
       "للأعداد",
       "غذائي"
     ],
-    "answer": "للطاقة",
-    "hint": "الهرم الذي يوضح كمية الطاقة المتاحة في كل مستوى."
+    "answer": "للكتلة",
+    "hint": ""
   },
   {
     "type": "choice",
     "question": "30- أي أجزاء الشبكة الغذائية يحوي أقل كتلة حيوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/30.jpg",
     "options": [
       "الثعالب",
       "النباتات الخضراء",
@@ -362,6 +370,7 @@
   {
     "type": "choice",
     "question": "31- أي المخلوقات التالية يعد الأقل في حجم الجماعة الحيوية :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/31.jpg",
     "options": [
       "النباتات",
       "الحشرات",
@@ -446,6 +455,7 @@
   {
     "type": "choice",
     "question": "38- تجمع الحشرة المبينة في الصورة الساذقة حبوب اللقاح و الرحيق من أجل غذائها ولكنها في الوقت نفسه تساعد على تكاثر النبات ماذا توضح هذه العلاقة :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/38.jpg",
     "options": [
       "افتراس",
       "تعايش",
@@ -482,6 +492,7 @@
   {
     "type": "choice",
     "question": "41- يوجد أعلى تركيز من النيتروجين في :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/41.jpg",
     "options": [
       "الحيوانات",
       "الغلاف الجوي",
@@ -530,6 +541,7 @@
   {
     "type": "choice",
     "question": "45- أي أجزاء المخطط يتعلق بفقدان الكربون من الدورة طويلة الأمد في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/45.jpg",
     "options": [
       "ثاني أكسيد الكربون المذاب",
       "احتراق الوقود",
@@ -566,6 +578,7 @@
   {
     "type": "choice",
     "question": "48- أي أجزاء الشبكة أعلاه يحوي أكبر كتلة حيوية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/48.jpg",
     "options": [
       "الثعالب",
       "الفئران",
@@ -620,8 +633,8 @@
       "التخلص من التلوث",
       "توفير المواد المغذية"
     ],
-    "answer": "تحريك المواد في البيئة",
-    "hint": "ضمان استمرار إعادة تدوير المواد الكيميائية الأساسية للحياة."
+    "answer": "توفير المواد المغذية",
+    "hint": ""
   },
   {
     "type": "choice",
@@ -674,6 +687,7 @@
   {
     "type": "choice",
     "question": "57- الشكل السابق يمثل دورة الفوسفور أي الخيارات التالية يمثل المحللات:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/57.jpg",
     "options": [
       "A",
       "B",
