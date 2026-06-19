@@ -14,14 +14,15 @@
   {
     "type": "choice",
     "question": "2/ في الشكل السابق توزيع الجماعة لحيوان في منطقة ما هذا التوزيع يسمى :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_2-2.jpg",
     "options": [
       "محدود",
       "عشوائي",
       "تكتلي",
       "منتظم"
     ],
-    "answer": "تكتلي",
-    "hint": "أغلب الحيوانات (مثل قطعان الماشية) تتجمع حول مصادر الموارد بشكل مجموعات."
+    "answer": "منتظم",
+    "hint": ""
   },
   {
     "type": "choice",
@@ -38,6 +39,7 @@
   {
     "type": "choice",
     "question": "4/ الشكل السابق يبين نمط التوزيع المكاني للابل وهو من النوع:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%B9%D9%84%D9%85%20%D8%A8%D9%8A%D8%A6%D8%A9/2_4.jpg",
     "options": [
       "العشوائي",
       "المنتظم",
@@ -170,6 +172,7 @@
   {
     "type": "choice",
     "question": "15/ الشكل البياني السابق لجماعة من الفئران يسمى :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_15.jpg",
     "options": [
       "النمو الأسي",
       "طور التباطؤ",
@@ -182,6 +185,7 @@
   {
     "type": "choice",
     "question": "16/ أي الخيارات التالية يمثل الحرف C في الرسم:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_16.jpg",
     "options": [
       "طور التباطؤ",
       "النمو الأسي",
@@ -194,6 +198,7 @@
   {
     "type": "choice",
     "question": "17/ الشكل السابق يوضح نمو جماعة حيوية أي الخيارات التالية يمثل طور التباطؤ:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_17.jpg",
     "options": [
       "A",
       "B",
@@ -206,6 +211,7 @@
   {
     "type": "choice",
     "question": "18/ الشكل السابق يمثل رسما بيانيا لتكاثر قطعان الذئاب في الصحاري السعودية لفترة زمنيةما ان المنحنى رقم 4 في الشكل يمثل :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/علم%20بيئة/2_18.jpg",
     "options": [
       "القدرة الاستيعابية",
       "النمو ادأسي",
@@ -368,8 +374,8 @@
       "1.6٪",
       "160٪"
     ],
-    "answer": "1.6٪",
-    "hint": "معدل النمو يحسب بطرح الوفيات من المواليد وقسمة الناتج على 10 لتحويله إلى نسبة مئوية."
+    "answer": "16٪",
+    "hint": ""
   },
   {
     "type": "choice",
