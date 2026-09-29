@@ -974,7 +974,7 @@
   {
     "type": "choice",
     "question": "82- الجهاز الدوري في الشكل السابق يعود إلى:",
-    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/0461d492a7dc004e2e1fb232a882273f30132232/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n82.jpg"
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/0461d492a7dc004e2e1fb232a882273f30132232/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n82.jpg",
     "options": [
       "الزواحف",
       "البرمائيات",
@@ -1359,7 +1359,7 @@
   {
     "type": "choice",
     "question": "114- من الشكل السابق أي التالي صحيح في قلب الضفدع:",
-    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n114.jpg"
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n114.jpg",
     "options": [
       "3 غرف و دورة دموية مزدوجة",
       "3 غرف ودورة دموية غير مزدوجة",
@@ -1372,7 +1372,7 @@
   {
     "type": "choice",
     "question": "115- إلى ماذا يشير السهم في الشكل السابق:",
-    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n115.jpg"
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n115.jpg",
     "options": [
       "المجمع - المذرق",
       "عضو جاكوبسون",
