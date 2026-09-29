@@ -483,6 +483,7 @@
   {
     "type": "choice",
     "question": "41- من خلال الصورة السابقة أي من العبارات التالية تصف نجم البحر بشكل صحيح:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n41.jpg",
     "options": [
       "عديم التناظر جهاز وعائي مفتوح",
       "تناظر شعاعي - جهاز وعائي مائي",
@@ -495,6 +496,7 @@
   {
     "type": "choice",
     "question": "42- في الشكل السابق أي التراكيب حل محله عمود فقري أو غضروف في الفقاريات الحبلية:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n42.jpg",
     "options": [
       "B",
       "A",
@@ -507,6 +509,7 @@
   {
     "type": "choice",
     "question": "43- أي من الصورة السابقة ليس من شوكيات الجلد:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n43.jpg",
     "options": [
       "أ",
       "ج",
@@ -519,6 +522,7 @@
   {
     "type": "choice",
     "question": "44- الصفة الوحيدة التي بقيت مع الحيوان البالغ الذي في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n44.jpg",
     "options": [
       "السيفون الشهيقي و الزفيري",
       "الحبل الظهري العصبي",
@@ -531,6 +535,7 @@
   {
     "type": "choice",
     "question": "45- من خلال الجدول السابق أي الآتي صحيح:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n45.jpg",
     "options": [
       "3",
       "2",
@@ -543,6 +548,7 @@
   {
     "type": "choice",
     "question": "46- بناء على الشكل السابق أي من الآتي ثانوية الفم:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n46.jpg",
     "options": [
       "قنافذ البحر",
       "جراد البحر",
@@ -927,6 +933,7 @@
   {
     "type": "choice",
     "question": "78- في الصورة السابقة أي شكل يوضح طفيلاً خارجياً:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n78.jpg",
     "options": [
       "أ",
       "ج",
@@ -939,6 +946,7 @@
   {
     "type": "choice",
     "question": "79- في الصورة السابقة أي الأرقام يشير إلى مثانة العوم:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n79.jpg",
     "options": [
       "1",
       "2",
@@ -951,6 +959,7 @@
   {
     "type": "choice",
     "question": "80- حددي نوع السمكة في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n80.jpg",
     "options": [
       "غضروفية",
       "فكية",
@@ -963,6 +972,7 @@
   {
     "type": "choice",
     "question": "81- في الصورة السابقة يشير السهم إلى مرحلة من مراحل النمو الجنيني للفقاريات هي:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n81.jpg",
     "options": [
       "الغضروف",
       "الحبل العصبي",
@@ -988,6 +998,7 @@
   {
     "type": "choice",
     "question": "83- ما الجزء المشار إليه في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n83.jpg",
     "options": [
       "جهاز الخط الجانبي",
       "مثانة العوم",
@@ -1000,6 +1011,7 @@
   {
     "type": "choice",
     "question": "84- الدورة الدموية عند الأسماك:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n84.jpg",
     "options": [
       "دورة دموية واحدة مغلقة",
       "متغيرة",
@@ -1012,6 +1024,7 @@
   {
     "type": "choice",
     "question": "85- يشير السهم في الشكل السابق إلى مرحلة من مراحل النمو الجنيني للفقاريات هي:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n85.jpg",
     "options": [
       "الغضروف",
       "الحبل العصبي",
@@ -1024,6 +1037,7 @@
   {
     "type": "choice",
     "question": "86- في الصورة السابقة مخلوق حي يصنف ضمن طائفة الأسماك:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n86.jpg",
     "options": [
       "العظمية",
       "دائرية الفم",
@@ -1288,6 +1302,7 @@
   {
     "type": "choice",
     "question": "108- في الشكل السابق علامة الاستفهام تمثل اشتراك النوعين في وجود:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n108.jpg",
     "options": [
       "الرقبة",
       "الأطراف",
@@ -1300,6 +1315,7 @@
   {
     "type": "choice",
     "question": "109- في الشكل السابق علامة استفهام تمثل خاصية مشتركة بين هذين النوعين ما هي:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n109.jpg",
     "options": [
       "الفكوك",
       "الزعانف المزدوجة",
@@ -1312,6 +1328,7 @@
   {
     "type": "choice",
     "question": "110- في الشكل السابق مجموعة من المخلوقات الحية صنفت في طائفة واحدة لاشتراكها في:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n110.jpg",
     "options": [
       "التغذية النباتية",
       "وجود الأطراف",
@@ -1324,6 +1341,7 @@
   {
     "type": "choice",
     "question": "111- الحيوان الذي تراه في الشكل السابق هو:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n111.jpg",
     "options": [
       "السيسيليا",
       "أبو ذنيبة",
@@ -1336,6 +1354,7 @@
   {
     "type": "choice",
     "question": "112- يشير السهم في الصورة السابقة إلى:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n112.jpg",
     "options": [
       "الغشاء الرامش",
       "عضو جاكوبسون",
@@ -1348,6 +1367,7 @@
   {
     "type": "choice",
     "question": "113- الصورة السابقة تمثل مرحلة في دورة حياة أحد الحيوانات التالية ما هو هذا الحيوان:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n113.jpg",
     "options": [
       "السلمندر",
       "التمساح",
