@@ -1372,14 +1372,15 @@
   {
     "type": "choice",
     "question": "115- إلى ماذا يشير السهم في الشكل السابق:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n115.jpg"
     "options": [
       "المجمع - المذرق",
       "عضو جاكوبسون",
       "الغشاء الرامش",
       "غشاء الطبلة"
     ],
-    "answer": "غشاء الطبلة",
-    "hint": "عضو الاستجابة السمعية المتواجد خلف العين لدى البرمائيات."
+    "answer": "الغشاء الرامش",
+    "hint": "."
   },
   {
     "type": "choice",
