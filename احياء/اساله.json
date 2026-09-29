@@ -182,14 +182,15 @@
   {
     "type": "choice",
     "question": "16- في الصورة السابقة أي مما يلي ليس من شوكيات الجلد:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/n16.jpg",
     "options": [
       "a",
       "c",
       "d",
       "b"
     ],
-    "answer": "b",
-    "hint": "ابحث عن المخلوق الذي لا ينتمي لشعبة شوكيات الجلد حسب الخصائص أو الشكل المقابل."
+    "answer": "a",
+    "hint": ""
   },
   {
     "type": "choice",
