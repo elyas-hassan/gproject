@@ -170,6 +170,7 @@
   {
     "type": "choice",
     "question": "15/ في الشكل السابق رأس ثعبان ما اسم التركيب المشار إليه:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n15.jpg",
     "options": [
       "القشور",
       "الحراشف",
@@ -182,6 +183,7 @@
   {
     "type": "choice",
     "question": "16/ التركيب المشار إليه بسهم في الصورة السابقة يقوم بتخزين الغذاء اللازم للجنينهو:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n16.jpg",
     "options": [
       "كيس الممبار",
       "كيس المح",
@@ -194,6 +196,7 @@
   {
     "type": "choice",
     "question": "17/ أي الأسهم في الصورة السابقة يشير إلى الغشاء الرهلي :",
+   "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n17.jpg",
     "options": [
       "2",
       "1",
@@ -206,6 +209,7 @@
   {
     "type": "choice",
     "question": "18/ من الشكل البياني السابق نستنتج أن :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n18.jpg",
     "options": [
       "الفأر ثابت درجة الحرارة والسحلية متغيرة درجة الحرارة",
       "السحلية تولد حرارة جسمها داخليا والفأر ينظم حرارة جسمه سلوكيا",
@@ -578,18 +582,22 @@
   {
     "type": "choice",
     "question": "50/أي التالي يشير إلى الرئة في الشكل السابق:",
+        "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n50.jpg",
+
     "options": [
       "A",
       "B",
       "C",
       "D"
     ],
-    "answer": "B",
+    "answer": "A",
     "hint": "الرئة تقع في مركز الجهاز التنفسي وترتبط بها الأكياس الهوائية."
   },
   {
     "type": "choice",
     "question": "51/في الشكل السابق منقار لطائر الطنان يستخدم في:",
+        "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n51.jpg",
+
     "options": [
       "امتصاص رحيق الأزهار",
       "طعن الأسماك",
@@ -602,6 +610,7 @@
   {
     "type": "choice",
     "question": "52/يستخدم طائر البجع في الصورة السابقة منقاره الكيسي في :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n52.jpg",
     "options": [
       "تمزيق لحم الفريسة",
       "غرف الماء الذي يحوي أسماك",
@@ -614,26 +623,28 @@
   {
     "type": "choice",
     "question": "53/ في الصورة السابقة أي التراكيب التالية يدخل إليها الهواء المؤكسج أثناء عملية الشهيق في الطيور",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n53.jpg",
     "options": [
       "A",
       "C",
       "B",
       "D"
     ],
-    "answer": "A",
+    "answer": "B",
     "hint": "الهواء يدخل أولاً إلى الأكياس الهوائية الخلفية أثناء الشهيق."
   },
   {
     "type": "choice",
     "question": "54/ ماذا تمثل الصورة السابقة :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n54.jpg",
     "options": [
       "الزفير عند الطيور",
       "الشهيق والزفير عند الطيور",
       "لا شيء مما سبق",
       "الشهيق عند الطيور"
     ],
-    "answer": "الشهيق والزفير عند الطيور",
-    "hint": "توضح آلية التنفس المزدوج في الطيور."
+    "answer": "الزفير عند الطيور",
+    "hint": ""
   },
   {
     "type": "choice",
@@ -1166,6 +1177,7 @@
   {
     "type": "choice",
     "question": "25- الشكل السابق يمثل الجهاز الهضمي عند أحد الحيوانات أي التالي خاطئ عن المشار إليه بالرقم 1 :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n25.jpg",
     "options": [
       "أنه المعي الأعور",
       "يوجد به بكتيريا تساعد آكلات اللحوم على هضم البروتينات",
@@ -1178,42 +1190,46 @@
   {
     "type": "choice",
     "question": "26- ينتمي الجهاز الهضمي في الصورة السابقة إلى حيوان:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n26.jpg",
     "options": [
       "آكل لحوم",
       "آكل أعشاب غير مجتر",
       "آكل حشرات",
       "آكل أعشاب مجتر"
     ],
-    "answer": "آكل أعشاب غير مجتر",
-    "hint": "آكلات الأعشاب غير المجترة تمتلك معياً أعور كبيراً لهضم السليولوز."
+    "answer": "آكل حشرات",
+    "hint": ""
   },
   {
     "type": "choice",
     "question": "27- ينتمي الجهاز الهضمي في الصورة السابقة إلى :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n27.jpg",
     "options": [
       "آكل حشرات",
       "آكل أعشاب مجتر",
       "آكل أعشاب غير مجتر",
       "آكل لحوم"
     ],
-    "answer": "آكل أعشاب مجتر",
-    "hint": "المعدة المعقدة متعددة الحجرات تميز المجترات."
+    "answer": "آكل لحوم",
+    "hint": "."
   },
   {
     "type": "choice",
     "question": "28- أي الأشكال في الصورة السابقة تمثل الجهاز الهضمي للذئب:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n28.jpg",
     "options": [
       "ب",
       "أ",
       "د",
       "ج"
     ],
-    "answer": "أ",
+    "answer": "ج",
     "hint": "آكلات اللحوم تمتلك جهازاً هضمياً قصيراً ومعياً أعور صغيراً."
   },
   {
     "type": "choice",
     "question": "29- أي مستوىغذائي في الصورة السابقة ينتمي إليه المخلوق :",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n29.jpg",
     "options": [
       "حيوانات قارتة",
       "آكلات لحوم",
@@ -1226,18 +1242,20 @@
   {
     "type": "choice",
     "question": "30- ينتمي الجهاز الهضمي في الصورة السابقة إلى حيوان:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n30.jpg",
     "options": [
       "آكل أعشاب مجتر",
       "آكل أعشاب غير مجتر",
       "آكل حشرات",
       "آكل لحوم"
     ],
-    "answer": "آكل حشرات",
-    "hint": "آكلات الحشرات تمتلك جهازاً هضمياً قصيراً وبسيطاً لأن الحشرات سهلة الهضم."
+    "answer": "آكل أعشاب غير مجتر",
+    "hint": "م."
   },
   {
     "type": "choice",
     "question": "31- أي مستوى غذائي ينتمي إليه جمجمة المخلوق في الصورة السابقة:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n31.jpg",
     "options": [
       "قارض",
       "آكل حشرات",
@@ -1250,6 +1268,7 @@
   {
     "type": "choice",
     "question": "32- في ماذا تتشابه الحيوانات في الشكل السابق:",
+    "image": "https://raw.githubusercontent.com/elyas-hassan/gproject/main/%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1/2n32.jpg",
     "options": [
       "ثابتة درجة الحرارة- طريقة التكاثر",
       "شعر - المشيمة",
